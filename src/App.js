@@ -21,9 +21,9 @@ export const StudentContext = createContext();
 function App() {
   let [user,setUser] = useState([
   {
-      firstName:"Zakir",
-      lastName:"Shaikh",
-      email:"adhiban.madhav@gmail.com",
+      firstName:"Venkata",
+      lastName:"Prajwal",
+      email:"prajwalmv2017@gmail.com",
       mobile:"1234564789",
       dob:"12-09-2010",
       location:"Pune"
